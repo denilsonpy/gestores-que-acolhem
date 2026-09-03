@@ -1,0 +1,22 @@
+{
+  "name": "Gestores que Acolhem",
+  "short_name": "Gestores",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061a2f",
+  "theme_color": "#061a2f",
+  "description": "Rifa solidária Gestores que Acolhem",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
